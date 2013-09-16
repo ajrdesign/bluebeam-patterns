@@ -13,6 +13,8 @@
 - Forms
 - Buttons
 - Tables
+- Folder Structure
+- Naming conventions
 
 # Molecules
 - Date/Author for articles
