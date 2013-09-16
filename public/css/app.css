@@ -1,0 +1,48 @@
+.hero-unit-gradient {
+	background: rgb(0,76,127);
+	background: -moz-linear-gradient(left,  rgba(0,76,127,1) 0%, rgba(0,59,99,1) 100%);
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(0,76,127,1)), color-stop(100%,rgba(0,59,99,1)));
+	background: -webkit-linear-gradient(left,  rgba(0,76,127,1) 0%,rgba(0,59,99,1) 100%);
+	background: -o-linear-gradient(left,  rgba(0,76,127,1) 0%,rgba(0,59,99,1) 100%);
+	background: -ms-linear-gradient(left,  rgba(0,76,127,1) 0%,rgba(0,59,99,1) 100%);
+	background: linear-gradient(to right,  rgba(0,76,127,1) 0%,rgba(0,59,99,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#004c7f', endColorstr='#003b63',GradientType=1 );
+	color: #fff;
+	text-shadow: 1px 1px 1px #222;
+}
+
+.block input {
+	display: block;
+}
+
+.block .btn {
+	margin: 8px 0;
+}
+
+.old-type {
+	font-size: 12px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	line-height: 1.5em;
+}
+
+/*   Icon Styles    */
+
+#bullhorn {
+	border: 2px dotted #440011;
+	padding: 4px 6px;
+}
+
+#eye {
+	color: #ff0000;
+	text-shadow: 4px 4px 4px #a81518;
+	font-size: 36px;
+}
+
+#thumb {
+	transform:skewX(-30deg);
+	-ms-transform:skewX(-30deg); /* IE 9 */
+	-moz-transform:skewX(-30deg); /* Firefox */
+	-webkit-transform:skewX(-30deg); /* Safari and Chrome */
+	-o-transform:skewX(-30deg); /* Opera */
+	font-size: 46px;
+}

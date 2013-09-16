@@ -1,0 +1,8 @@
+body:before { 
+                            white-space: pre; 
+                            font-family: monospace; 
+                            content: 'Less NameError: .ie7-restore-right-whitespace is undefined in \\Volumes\\bblocalweb-1\\bluebeamswebsite\\framework\\less\\sprites.less:22:2 \A 21   height: 14px; \A 22   .ie7-restore-right-whitespace(); \A 23   line-height: 14px; \A  \A '; } 
+                            
+                            body * { 
+                            display: none; 
+                            } 
